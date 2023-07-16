@@ -1,0 +1,5 @@
+C:\Users\volos\Desktop\Mindbox\Task001\obj\Debug\net6.0\Task001.csproj.AssemblyReference.cache
+C:\Users\volos\Desktop\Mindbox\Task001\obj\Debug\net6.0\Task001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volos\Desktop\Mindbox\Task001\obj\Debug\net6.0\Task001.AssemblyInfoInputs.cache
+C:\Users\volos\Desktop\Mindbox\Task001\obj\Debug\net6.0\Task001.AssemblyInfo.cs
+C:\Users\volos\Desktop\Mindbox\Task001\obj\Debug\net6.0\Task001.csproj.CoreCompileInputs.cache
